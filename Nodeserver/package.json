@@ -1,0 +1,14 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "this is a nodeserver for ichat apllication",
+  "main": " ",
+  "scripts": {
+    "test": " "
+  },
+  "author": "ankit",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.5.1"
+  }
+}
